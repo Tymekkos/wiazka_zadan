@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680964662 source:c:\users\tymek\desktop\tymek\8loinformatykac++\szkopul\statystki_tekstu\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
